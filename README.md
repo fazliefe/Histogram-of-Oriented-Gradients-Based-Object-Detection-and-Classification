@@ -380,7 +380,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 Sorularınız veya önerileriniz için:
 
-- **GitHub Issues**: [Proje Issues Sayfası](https://github.com/kullaniciadi/fazli-efe-onder-hog-odev/issues)
+
 - **Email**: onderfazli59@gmail.com.com
 
 ---
@@ -396,4 +396,5 @@ Sorularınız veya önerileriniz için:
 **Not**: Bu proje eğitim amaçlıdır ve akademik çalışmalarda referans gösterilebilir.
 
 ⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!
+
 
